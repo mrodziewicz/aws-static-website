@@ -8,6 +8,7 @@ index.html - The Index document for the website.
 /img - The background image file for the website.
 /vendor - Bootssrap CSS framework, Font, and JavaScript libraries needed for the website to function.
 /css - CSS files for the website.
+/"aws configuration screenshots".
 
 URL: http://d3qzecj42c9fae.cloudfront.net/index.html
 
